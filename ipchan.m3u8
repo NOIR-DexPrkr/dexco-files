@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:0 tvg-country="VE" tvg-logo="" group-title="Undefined",Venevisión Internacional (720p)
+
+#EXTINF:0 tvg-country="VE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Televen_%282024%29.svg/1920px-Televen_%282024%29.svg.png" group-title="Favoritos",Televen (720p)
+http://181.78.8.199:8000/play/a09j/index.m3u8
+
+#EXTINF:0 tvg-country="VE" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="Favoritos",Telesur HD (720p)
+http://45.190.28.50/TELESUR_HD/index.m3u8
+
+#EXTINF:0 tvg-country="VE" tvg-logo="https://i.imgur.com/gm1m8hW.png" group-title="Favoritos",Venevisión Nacional (720p)
+https://venevision-blocked-cdn.encoders.immergo.tv/master.m3u8
+
+#EXTINF:0 tvg-country="VE" tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="Otros",Venevisión Internacional (720p)
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8?checkedby:iptvcat.com
