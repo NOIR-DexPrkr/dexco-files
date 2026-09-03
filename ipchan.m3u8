@@ -1,10 +1,15 @@
 #EXTM3U
-
 #EXTINF:0 tvg-country="VE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Televen_%282024%29.svg/1920px-Televen_%282024%29.svg.png" group-title="Favoritos",Televen
 http://181.78.8.199:8000/play/a09j/index.m3u8
 
 #EXTINF:0 tvg-country="VE" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="Favoritos",Telesur HD
 http://45.190.28.50/TELESUR_HD/index.m3u8
+
+#EXTINF:0 tvg-country="VE" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="Favoritos",Telesur HD
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+
+#EXTINF:0 tvg-country="VE" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="Favoritos",Telesur HD
+http://38.44.109.41:8003/play/a01q/index.m3u8
 
 #EXTINF:0 tvg-country="VE" tvg-logo="https://i.imgur.com/gm1m8hW.png" group-title="Favoritos",Venevisión Nacional
 https://venevision-blocked-cdn.encoders.immergo.tv/master.m3u8
@@ -12,47 +17,945 @@ https://venevision-blocked-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:0 tvg-country="VE" tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="Venezuela",Venevisión Internacional
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="MX" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" group-title="Pluto TV", El Encantador de Perros
-https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
+#EXTINF:0 tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHamericatv.png" group-title="Buenos Aires",America TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:0 tvg-country="MX" tvg-logo="https://images.pluto.tv/channels/69fcdc73488e575cff213adc/colorLogoPNG_1778601459828.png" group-title="Pluto TV", Hermanos a la Obra
-https://jmp2.uk/plu-69fcdc73488e575cff213adc.m3u8
+#EXTINF:0 tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHamericatv.png" group-title="Buenos Aires",America TV
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
-#EXTINF:0 tvg-country="MX" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Pluto TV", Karaoke
-https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8
+#EXTINF:0 tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHamericatv.png" group-title="Buenos Aires",America TV
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
-#EXTINF:0 tvg-country="MX" tvg-logo="https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/colorLogoPNG.png" group-title="Pluto TV", MTV Clasicos
+#EXTINF:0 tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtvpublica.png" group-title="Buenos Aires",TV Pública
+https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
+
+#EXTINF:0 tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtvpublica.png" group-title="Buenos Aires",TV Pública
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
+
+#EXTINF:0 tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png" group-title="Buenos Aires",Telefe
+http://miotv.cc:8080/Lopez123/Lopez123/272043
+
+#EXTINF:0 tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png" group-title="Buenos Aires",Telefe
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108795
+
+#EXTINF:0 tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltrece.png" group-title="Buenos Aires",El Trece
+http://107.152.39.199:8030/hls/canal13.m3u8
+
+#EXTINF:0 tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltrece.png" group-title="Buenos Aires",El Trece
+http://miotv.cc:8080/Lopez123/Lopez123/272044
+
+#EXTINF:0 tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltrece.png" group-title="Buenos Aires",El Trece
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108799
+
+#EXTINF:0 tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHelnueve.png" group-title="Buenos Aires",El Nueve
+http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-16.playlist.m3u8
+
+#EXTINF:0 tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/worlcup2026.png" group-title="Deportes",Mundial 2026
+http://190.108.83.69:8000/play/a05w/index.m3u8
+
+#EXTINF:0 tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/worlcup2026.png" group-title="Deportes",Mundial 2026
+http://38.44.109.41:8003/play/a02l/index.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/6a68cb5a116cd6d17dba0b95/colorLogoPNG_1785253726745.png" group-title="Deportes",NFL Channel
+https://jmp2.uk/plu-6a68cb5a116cd6d17dba0b95.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png" group-title="Deportes",FIFA+
+https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/67813f893886aa863497733d/colorLogoPNG.png" group-title="Deportes",Red Bull TV
+https://jmp2.uk/plu-67813f893886aa863497733d.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/67813f893886aa863497733d/colorLogoPNG.png" group-title="Deportes",Red Bull TV
+https://e115ca7eea9f45628f59ee2d3b8cbba4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-LG_AR/957/hls/master/playlist.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/67813f893886aa863497733d/colorLogoPNG.png" group-title="Deportes",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/67a52cd4ec91870008a62164/colorLogoPNG_1772478524925.png" group-title="Deportes",UFC
+https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png" group-title="Deportes",Azteca Deportes Premium
+https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png" group-title="Deportes",Pluto TV Deportes
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG_1778002301638.png" group-title="Noticias",CBS News 24/7
+https://jmp2.uk/plu-62310d5a5dc9550007c6f580.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG_1781045575622.png" group-title="Noticias",Euronews Español
+https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png" group-title="Noticias",TeleFórmula
+https://jmp2.uk/plu-63d2c140c111bc0008cb890b.m3u8
+
+#EXTINF:0 tvg-country="CO" tvg-logo="https://images.pluto.tv/channels/67d9b0ebc290c9499046e88f/colorLogoPNG_1785346064037.png" group-title="Noticias",RCN Noticias
+https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://images.pluto.tv/channels/652e922db4b047000825f975/colorLogoPNG_1785346213587.png" group-title="Noticias",Milenio Televisión
+https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://images.pluto.tv/channels/652e922db4b047000825f975/colorLogoPNG_1785346213587.png" group-title="Noticias",Milenio Televisión
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://images.pluto.tv/channels/652e922db4b047000825f975/colorLogoPNG_1785346213587.png" group-title="Noticias",Milenio Televisión
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title="Series",NCIS
+https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" group-title="Series",CSI: Miami
+https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/6a15f7770ed14e790bab6449/colorLogoPNG_1782506664518.png" group-title="Series",Blue Bloods
+https://jmp2.uk/plu-6a15f7770ed14e790bab6449.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/678aa0b3680721c77c5035dd/colorLogoPNG.png" group-title="Series",The Walking Dead
+https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" group-title="Series",Pluto TV Series
+https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/6479ff1c17f5e10008ad2797/colorLogoPNG.png" group-title="Series",Pluto TV Series de Acción
+https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/655f626d57fe4a00085c7c3e/colorLogoPNG.png" group-title="Series",Pluto TV Series de Comedia
+https://jmp2.uk/plu-655f626d57fe4a00085c7c3e.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/655f62ff954b020008c91ec6/colorLogoPNG.png" group-title="Series",Pluto TV Series de Crimen
+https://jmp2.uk/plu-655f62ff954b020008c91ec6.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="Series",Pluto TV Series Retro
+https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/colorLogoPNG_1753988442904.png" group-title="Series",Pluto TV Star Trek
+https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/6764203df433320008836bc6/colorLogoPNG.png" group-title="Series",Los Asesinatos de Midsomer
+https://jmp2.uk/plu-6764203df433320008836bc6.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" group-title="Series",MacGyver
+https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG_1760378798093.png" group-title="Películas",Pluto TV Cine Acción
+https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG_1762281945243.png" group-title="Películas",Pluto TV Cine Comedia
+https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG_1765466087404.png" group-title="Películas",Pluto TV Cine Drama
+https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG_1730472485648.png" group-title="Películas",Pluto TV Cine Terror
+https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG_1785345065229.png" group-title="Películas",Pluto TV Cine Suspenso
+https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Romance
+https://jmp2.uk/plu-5dd7ea2aeab5230009986735.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Clásico
+https://jmp2.uk/plu-609059dc63be6e0007b4eca6.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG_1785959252371.png" group-title="Películas",Pluto TV Cine Familia
+https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1786125745854.png" group-title="Películas",Pluto TV Cine Estelar
+https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png" group-title="Películas",Pluto TV Sci-Fi
+https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="Películas",Estrellas de Acción
+https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" group-title="Películas",Pluto TV Nuestro Cine
+https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/colorLogoPNG.png" group-title="Películas",Pluto TV A La Mexicana
+https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1787851201230.png" group-title="Kids",Bob Esponja
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG_1767810452010.png" group-title="Kids",Los Padrinos Mágicos
+https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/colorLogoPNG.png" group-title="Kids",Avatar: La Leyenda de Aang
+https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/colorLogoPNG_1788198063916.png" group-title="Kids",PAW Patrol
+https://jmp2.uk/plu-6495c6ad115d060008bf6b52.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/6824cda00101510f9eeaa011/colorLogoPNG_1750110888810.png" group-title="Kids",Nickelodeon Clásico
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG_1768926025035.png" group-title="Kids",Las Tortugas Ninja
+https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/66c79221b1a34600087e264d/colorLogoPNG.png" group-title="Kids",Hey Arnold!
+https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="Kids",Rugrats
+https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" group-title="Kids",El Reino Infantil
+https://jmp2.uk/plu-5f4d3d06fb60d8000781fce8.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="Kids",Pluto TV Kids
+https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Anime",Naruto
+https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="Anime",Naruto Shippuden
+https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG-1663941540755.png" group-title="Anime",One Piece
+https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/6870072ca9d5c45c3e9466f1/colorLogoPNG_1752173270400.png" group-title="Anime",Pokémon
+https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/6870072ca9d5c45c3e9466f1/colorLogoPNG_1752173270400.png" group-title="Anime",Pokémon
+http://tecnotv.club//phpcode/lista01.php?c=168751&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/65d916a2f7f0af0008b6540d/colorLogoPNG.png" group-title="Anime",Hunter x Hunter
+https://jmp2.uk/plu-65d916a2f7f0af0008b6540d.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" group-title="Anime",Death Note
+https://jmp2.uk/plu-626c2ed933a2890007e91422.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/66b26665d512590008c507b7/colorLogoPNG.png" group-title="Anime",Inuyasha
+https://jmp2.uk/plu-66b26665d512590008c507b7.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/66c790f780a0af0008583aa4/colorLogoPNG.png" group-title="Anime",JoJo's Bizarre Adventure
+https://jmp2.uk/plu-66c790f780a0af0008583aa4.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG_1785346475723.png" group-title="Anime",Pluto TV Anime
+https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG_1762352083476.png" group-title="Comedia",Comedy Central
+https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG_1764595225705.png" group-title="Comedia",South Park
+https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/69fca9f9b9c0f0d444f631ca/colorLogoPNG_1778514521886.png" group-title="Comedia",Mr. Bean Animated
+https://jmp2.uk/plu-69fca9f9b9c0f0d444f631ca.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" group-title="Comedia",FailArmy
+https://jmp2.uk/plu-5ebaccf1734aaf0007142c86.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/699763d184235f26d5056002/colorLogoPNG_1773231206751.png" group-title="Comedia",Enchufe.TV
+https://jmp2.uk/plu-699763d184235f26d5056002.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png" group-title="Comedia",La Familia del Barrio
+https://jmp2.uk/plu-62d08af527ce19000731eaa0.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG_1785346351482.png" group-title="Comedia",Pluto TV Humor
+https://jmp2.uk/plu-5e8397936791b30007ebb5a7.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG_1764875981566.png" group-title="Reality",MTV Pluto TV
+https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG_1783347553577.png" group-title="Reality",MTV Reality
+https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" group-title="Reality",MTV Ridiculousness
+https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG_1756972226445.png" group-title="Reality",Acapulco Shore
+https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG_1762821719974.png" group-title="Reality",Revive Gran Hermano
+https://jmp2.uk/plu-6320ddef274b1b0007b2ee88.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/69fca9dd14a5dfae8875a3be/colorLogoPNG_1778516804340.png" group-title="Reality",Survivor México
+https://jmp2.uk/plu-69fca9dd14a5dfae8875a3be.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png" group-title="Reality",Hell's Kitchen
+https://jmp2.uk/plu-6095ad97351eb0000754c1e6.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/6647c02422494d000804b13a/colorLogoPNG_1772461055527.png" group-title="Reality",Shark Tank México
+https://jmp2.uk/plu-6647c02422494d000804b13a.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="Investigación",Los Archivos del FBI
+https://jmp2.uk/plu-5e67d41b93312100076f3fca.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" group-title="Investigación",Archivos Forenses
+https://jmp2.uk/plu-5efb8c19b2678b000780d032.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="Investigación",Misterios sin Resolver
+https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="Investigación",Pluto TV Investiga
+https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="Paranormal",Historias de Ultratumba
+https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png" group-title="Paranormal",Archivos Extraterrestres
+https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png" group-title="Paranormal",Pluto TV Misterios
+https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/colorLogoPNG.png" group-title="Música",MTV Classic
 https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 
-#EXTINF:0 tvg-country="MX" tvg-logo="https://images.pluto.tv/channels/69fcaa71ea95ffff0987f555/colorLogoPNG_1779730748951.png" group-title="Pluto TV", Master Chef Colombia
-https://jmp2.uk/plu-69fcaa71ea95ffff0987f555.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/66a01b52a4ee27000808ea36/colorLogoPNG.png" group-title="Música",MTV Rocks
+https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
 
-#EXTINF:0 tvg-country="MX" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG_1787850989206.png" group-title="Pluto TV", Master Chef Mexico
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" group-title="Música",MTV Biggest Pop
+https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" group-title="Música",MTV Flow Latino
+https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/6868152657543d1f8be4ece3/colorLogoPNG_1751652184592.png" group-title="Música",Concert Channel
+https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/63dac1b78795f300086d5ca6/colorLogoPNG_1758309507155.png" group-title="Música",TikTok Radio en Español
+https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG_1785345528364.png" group-title="Novelas",Pluto TV Novelas
+https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG_1785345561974.png" group-title="Novelas",Pluto TV Novelas de México
+https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG_1785345794562.png" group-title="Novelas",Pluto TV Novelas de Venezuela
+https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/646ccdd0939a5900088a1980/colorLogoPNG.png" group-title="Novelas",Corazón
+https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/646ccdd0939a5900088a1980/colorLogoPNG.png" group-title="Novelas",Corazón
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/646ccdd0939a5900088a1980/colorLogoPNG.png" group-title="Novelas",Corazón
+http://45.167.1.136:8000/play/a014
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png" group-title="Novelas",La Selección
+https://jmp2.uk/plu-63211ba9cad976000794f988.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG_1785345745095.png" group-title="Novelas",Sin Tetas No Hay Paraíso
+https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG_1730999716441.png" group-title="Estilo de Vida",Tastemade
+https://jmp2.uk/plu-5f998c1fc54853000797bacd.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/68b887c2e77777498226a0de/colorLogoPNG_1759784264793.png" group-title="Estilo de Vida",Tastemade Hogar
+https://jmp2.uk/plu-68b887c2e77777498226a0de.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/68b88712e777774982269ce9/colorLogoPNG_1759784097851.png" group-title="Estilo de Vida",Tastemade Viajes
+https://jmp2.uk/plu-68b88712e777774982269ce9.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1778796418782.png" group-title="Estilo de Vida",Pluto TV Estilo de Vida
+https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ddc503ac7ef120009b101a2/colorLogoPNG_1767716226725.png" group-title="Documentales",Pluto TV Documentales
+https://jmp2.uk/plu-5ddc503ac7ef120009b101a2.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="Documentales",Pluto TV Naturaleza
+https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="Documentales",Pluto TV Historia
+https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="Documentales",Pluto TV Velocidad
+https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png" group-title="Documentales",Smithsonian Channel
+https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/colorLogoPNG.png" group-title="Entretenimiento",Azteca Internacional
+https://jmp2.uk/plu-646cce4d1593940008a33f09.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/colorLogoPNG.png" group-title="Entretenimiento",Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun_360p.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/colorLogoPNG.png" group-title="Entretenimiento",Azteca Internacional
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/colorLogoPNG.png" group-title="Entretenimiento",Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/colorLogoPNG.png" group-title="Entretenimiento",Azteca Internacional
+https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/colorLogoPNG.png" group-title="Entretenimiento",Azteca Internacional
+http://45.167.1.136:8000/play/a03c
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/646ccc7a2858cb0008127367/colorLogoPNG.png" group-title="Entretenimiento",Azteca UNO
+https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/646ccc7a2858cb0008127367/colorLogoPNG.png" group-title="Entretenimiento",Azteca UNO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/646ccc7a2858cb0008127367/colorLogoPNG.png" group-title="Entretenimiento",Azteca UNO
+http://38.44.109.41:8003/play/a033/index.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/646ccc7a2858cb0008127367/colorLogoPNG.png" group-title="Entretenimiento",Azteca UNO
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/colorLogoPNG.png" group-title="Entretenimiento",Imagen TV+
+https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/652e91fd6208700008dcaf7b/colorLogoPNG_1785346412851.png" group-title="Entretenimiento",Canal 6 CdMX
+https://jmp2.uk/plu-652e91fd6208700008dcaf7b.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png" group-title="Entretenimiento",Canal Claro
+https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/67f95fa76b11614ab0caaef3/colorLogoPNG_1747414259619.png" group-title="Retro",Hechiceras
+https://jmp2.uk/plu-67f95fa76b11614ab0caaef3.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" group-title="Retro",Hechizada
+https://jmp2.uk/plu-631fb6be21b7440007b9f606.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/68ffc086a530e036bc8f0305/colorLogoPNG_1762795921468.png" group-title="Retro",Mi Bella Genio
+https://jmp2.uk/plu-68ffc086a530e036bc8f0305.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/68a3a97fd8f7693ae3f8575f/colorLogoPNG_1760386874134.png" group-title="Retro",Los Pitufos
+https://jmp2.uk/plu-68a3a97fd8f7693ae3f8575f.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/677d93afe650a700081e5f18/colorLogoPNG.png" group-title="Retro",Popeye
+https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG_1749640834707.png" group-title="Teen",Nickelodeon Teen
+https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" group-title="Teen",Nickelodeon iCarly
+https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="Teen",Kenan y Kel
+https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG_1787850989206.png" group-title="Competencia",MasterChef México
 https://jmp2.uk/plu-5e3ddbd27091820009f86dd9.m3u8
 
-#EXTINF:0 tvg-country="MX" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHanimalplanet.png" group-title="Entretenimiento", Animal Planet
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/69fcaa71ea95ffff0987f555/colorLogoPNG_1779730748951.png" group-title="Competencia",MasterChef Colombia
+https://jmp2.uk/plu-69fcaa71ea95ffff0987f555.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/69fcaa88e022927e1c94c533/colorLogoPNG_1779731088552.png" group-title="Competencia",MasterChef Argentina
+https://jmp2.uk/plu-69fcaa88e022927e1c94c533.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/logo7_2-20250131170429.png" group-title="Competencia",Pluto TV Competencias
+https://jmp2.uk/plu-5dd6d935d000120009bc1132.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" group-title="Competencia",Wipe Out
+https://jmp2.uk/plu-5ed6828192e8b3000743ef61.m3u8
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" group-title="Pluto TV",El Encantador de Perros
+https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://images.pluto.tv/channels/69fcdc73488e575cff213adc/colorLogoPNG_1778601459828.png" group-title="Pluto TV",Hermanos a la Obra
+https://jmp2.uk/plu-69fcdc73488e575cff213adc.m3u8
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Pluto TV",Karaoke
+https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/colorLogoPNG.png" group-title="Pluto TV",MTV Clásicos
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://images.pluto.tv/channels/69fcaa71ea95ffff0987f555/colorLogoPNG_1779730748951.png" group-title="Pluto TV",MasterChef Colombia
+https://jmp2.uk/plu-69fcaa71ea95ffff0987f555.m3u8
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG_1787850989206.png" group-title="Pluto TV",MasterChef México
+https://jmp2.uk/plu-5e3ddbd27091820009f86dd9.m3u8
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHanimalplanet.png" group-title="Entretenimiento",Animal Planet
 http://45.167.1.136:8000/play/a03i
 
-#EXTINF:0 tvg-country="MX" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscovery.png" group-title="Entretenimiento", Discovery
+#EXTINF:0 tvg-country="MX" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscovery.png" group-title="Entretenimiento",Discovery
 http://45.181.122.46:8090/play/a014
 
-#EXTINF:0 tvg-country="MX" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHh&hdiscovery.png" group-title="Entretenimiento", H&H Discovery
+#EXTINF:0 tvg-country="MX" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscovery.png" group-title="Entretenimiento",Discovery
+http://45.167.1.136:8000/play/a03h
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHh&hdiscovery.png" group-title="Entretenimiento",H&H Discovery
 http://45.167.1.136:8000/play/a05y
 
-#EXTINF:0 tvg-country="MX" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHnatgeo.png" group-title="Entretenimiento", NatGeo
+#EXTINF:0 tvg-country="MX" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHh&hdiscovery.png" group-title="Entretenimiento",H&H Discovery
+http://45.181.122.46:8090/play/a01f
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHnatgeo.png" group-title="Entretenimiento",NatGeo
 http://45.167.1.136:8000/play/a06e
 
-#EXTINF:0 tvg-country="MX" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHstarchannel.png" group-title="Entretenimiento", Star Channel
+#EXTINF:0 tvg-country="MX" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHnatgeo.png" group-title="Entretenimiento",NatGeo
+http://45.181.122.46:8090/play/a024
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHstarchannel.png" group-title="Entretenimiento",Star Channel
 http://45.167.1.136:8000/play/a03p
 
-#EXTINF:0 tvg-country="MX" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtnt.png" group-title="Entretenimiento", TNT
+#EXTINF:0 tvg-country="MX" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtnt.png" group-title="Entretenimiento",TNT
 http://45.167.1.136:8000/play/a01g
 
+#EXTINF:0 tvg-country="MX" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtnt.png" group-title="Entretenimiento",TNT
+http://45.181.122.46:8090/play/a01s
 
+############################################################
+### CATEGORÍA: DEPORTES
+############################################################
 
+#EXTINF:0 tvg-id="beinsportsxtra" tvg-name="Bein Sports Xtra ñ" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsportsxtrañ.png" group-title="Deportes",Bein Sports Xtra ñ
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
+#EXTINF:0 tvg-id="beinsportsxtra" tvg-name="Bein Sports Xtra ñ" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsportsxtrañ.png" group-title="Deportes",Bein Sports Xtra ñ
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
+#EXTINF:0 tvg-id="deportestvc" tvg-name="Deportes TVC" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdeportestvc.png" group-title="Deportes",Deportes TVC
+http://45.167.1.136:8000/play/a02x
 
+#EXTINF:0 tvg-id="deportestvc" tvg-name="Deportes TVC" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdeportestvc.png" group-title="Deportes",Deportes TVC
+http://miotv.cc:8080/Lopez123/Lopez123/187365
 
+#EXTINF:0 tvg-id="dsports" tvg-name="Dsports" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="Deportes",Dsports
+http://190.108.83.69:8000/play/a05w/index.m3u8
 
+#EXTINF:0 tvg-id="dsports" tvg-name="Dsports" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="Deportes",Dsports
+http://miotv.cc:8080/Lopez123/Lopez123/187374
+
+#EXTINF:0 tvg-id="dsports" tvg-name="Dsports" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="Deportes",Dsports
+http://190.117.20.37:8000/play/a08d/index.m3u8
+
+#EXTINF:0 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png" group-title="Deportes",ESPN
+http://45.181.122.46:8090/play/a01m
+
+#EXTINF:0 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png" group-title="Deportes",ESPN
+http://45.167.1.136:8000/play/a03l
+
+#EXTINF:0 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn2.png" group-title="Deportes",ESPN 2
+http://45.167.1.136:8000/play/a03m
+
+#EXTINF:0 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn2.png" group-title="Deportes",ESPN 2
+http://45.181.122.46:8090/play/a01v
+
+#EXTINF:0 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn3.png" group-title="Deportes",ESPN 3
+http://45.167.1.136:8000/play/a02k
+
+#EXTINF:0 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn3.png" group-title="Deportes",ESPN 3
+http://45.181.122.46:8090/play/a01t
+
+#EXTINF:0 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn4.png" group-title="Deportes",ESPN 4
+http://45.167.1.136:8000/play/a02l
+
+#EXTINF:0 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn4.png" group-title="Deportes",ESPN 4
+http://38.137.192.250:8000/play/a048
+
+#EXTINF:0 tvg-id="espn5" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn5.png" group-title="Deportes",ESPN 5
+http://45.181.122.46:8090/play/a028
+
+#EXTINF:0 tvg-id="espn5" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn5.png" group-title="Deportes",ESPN 5
+http://38.137.192.250:8000/play/a01u
+
+#EXTINF:0 tvg-id="espn6" tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn6.png" group-title="Deportes",ESPN 6
+http://45.167.1.136:8000/play/a01b
+
+#EXTINF:0 tvg-id="espn6" tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn6.png" group-title="Deportes",ESPN 6
+http://45.181.122.46:8090/play/a01j
+
+#EXTINF:0 tvg-id="espnpremium" tvg-name="ESPN Premium" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png" group-title="Deportes",ESPN Premium
+http://45.181.122.46:8090/play/a015
+
+#EXTINF:0 tvg-id="espnpremium" tvg-name="ESPN Premium" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png" group-title="Deportes",ESPN Premium
+http://miotv.cc:8080/Lopez123/Lopez123/369708
+
+#EXTINF:0 tvg-id="fifatv" tvg-name="FIFA TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfifatv.png" group-title="Deportes",FIFA TV
+http://miotv.cc:8080/Lopez123/Lopez123/429027
+
+#EXTINF:0 tvg-id="fifatv" tvg-name="FIFA TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfifatv.png" group-title="Deportes",FIFA TV
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+
+#EXTINF:0 tvg-id="garagetv" tvg-name="Garage TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHgaragetv.png" group-title="Deportes",Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:0 tvg-id="garagetv" tvg-name="Garage TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHgaragetv.png" group-title="Deportes",Garage TV
+http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/garage.playlist.m3u8
+
+#EXTINF:0 tvg-id="tntsportspremium" tvg-name="TNT Sports Premium" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png" group-title="Deportes",TNT Sports Premium
+http://45.181.122.46:8090/play/a00i
+
+#EXTINF:0 tvg-id="tntsportspremium" tvg-name="TNT Sports Premium" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png" group-title="Deportes",TNT Sports Premium
+http://miotv.cc:8080/Lopez123/Lopez123/187361
+
+#EXTINF:0 tvg-id="tycsports" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png" group-title="Deportes",TyC Sports
+http://38.44.109.41:8003/play/a02l/index.m3u8
+
+#EXTINF:0 tvg-id="tycsports" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png" group-title="Deportes",TyC Sports
+http://miotv.cc:8080/Lopez123/Lopez123/187371
+
+############################################################
+### CATEGORÍA: PELÍCULAS
+############################################################
+
+#EXTINF:0 tvg-id="amc" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHamc.png" group-title="Películas",AMC
+https://amc-amcespanol-1-us.plex.wurl.tv/1200.m3u8
+
+#EXTINF:0 tvg-id="amc" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHamc.png" group-title="Películas",AMC
+http://45.181.122.46:8090/play/a027
+
+#EXTINF:0 tvg-id="amc" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHamc.png" group-title="Películas",AMC
+http://45.167.1.136:8000/play/a01h
+
+#EXTINF:0 tvg-id="axn" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHaxn.png" group-title="Películas",AXN
+http://45.181.122.46:8090/play/a00g
+
+#EXTINF:0 tvg-id="axn" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHaxn.png" group-title="Películas",AXN
+http://45.167.1.136:8000/play/a01f
+
+#EXTINF:0 tvg-id="cinelatino" tvg-name="Cine Latino" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinelatino.png" group-title="Películas",Cine Latino
+http://45.167.1.136:8000/play/a04l
+
+#EXTINF:0 tvg-id="cinelatino" tvg-name="Cine Latino" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinelatino.png" group-title="Películas",Cine Latino
+http://miotv.cc:8080/Lopez123/Lopez123/187229
+
+#EXTINF:0 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinemax.png" group-title="Películas",Cinemax
+http://45.5.119.43:4000/play/a0il/index.m3u8
+
+#EXTINF:0 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinemax.png" group-title="Películas",Cinemax
+http://miotv.cc:8080/Lopez123/Lopez123/187159
+
+#EXTINF:0 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinemax.png" group-title="Películas",Cinemax
+http://45.167.1.136:8000/play/a04m
+
+#EXTINF:0 tvg-id="dhe" tvg-name="DHE" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHdhe.png" group-title="Películas",DHE
+http://45.167.1.136:8000/play/a00b
+
+#EXTINF:0 tvg-id="dhe" tvg-name="DHE" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHdhe.png" group-title="Películas",DHE
+http://miotv.cc:8080/Lopez123/Lopez123/187235
+
+#EXTINF:0 tvg-id="depelicula" tvg-name="De Pelicula" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHdepelicula.png" group-title="Películas",De Pelicula
+http://miotv.cc:8080/Lopez123/Lopez123/200923
+
+#EXTINF:0 tvg-id="depelicula" tvg-name="De Pelicula" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHdepelicula.png" group-title="Películas",De Pelicula
+http://38.137.192.250:8000/play/a06f
+
+#EXTINF:0 tvg-id="europaeuropa" tvg-name="Europa Europa" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHeuropaeuropa.png" group-title="Películas",Europa Europa
+http://45.167.1.136:8000/play/a05n
+
+#EXTINF:0 tvg-id="europaeuropa" tvg-name="Europa Europa" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHeuropaeuropa.png" group-title="Películas",Europa Europa
+http://38.137.192.250:8000/play/a060
+
+#EXTINF:0 tvg-id="filmarts" tvg-name="Film & Arts" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfilm&arts.png" group-title="Películas",Film & Arts
+http://45.167.1.136:8000/play/a00a
+
+#EXTINF:0 tvg-id="filmarts" tvg-name="Film & Arts" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfilm&arts.png" group-title="Películas",Film & Arts
+http://45.181.122.46:8090/play/a035
+
+#EXTINF:0 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo.png" group-title="Películas",HBO
+http://45.167.1.136:8000/play/a00h
+
+#EXTINF:0 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo.png" group-title="Películas",HBO
+http://45.181.122.46:8090/play/a029
+
+#EXTINF:0 tvg-id="hbopop" tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbopop.png" group-title="Películas",HBO Pop
+http://45.181.122.46:8090/play/a00j
+
+#EXTINF:0 tvg-id="hbopop" tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbopop.png" group-title="Películas",HBO Pop
+http://38.137.192.250:8000/play/a06o
+
+#EXTINF:0 tvg-id="mytimemovienetwork" tvg-name="MyTime Movie Network" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHmytimemovienetwork.png" group-title="Películas",MyTime Movie Network
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="mytimemovienetwork" tvg-name="MyTime Movie Network" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHmytimemovienetwork.png" group-title="Películas",MyTime Movie Network
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="retroplus" tvg-name="Retro Plus" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CHretroplus.png" group-title="Películas",Retro Plus
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
+
+#EXTINF:0 tvg-id="retroplus" tvg-name="Retro Plus" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CHretroplus.png" group-title="Películas",Retro Plus
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
+
+#EXTINF:0 tvg-id="studiouniversal" tvg-name="Studio Universal" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHstudiouniversal.png" group-title="Películas",Studio Universal
+http://45.167.1.136:8000/play/a05f
+
+#EXTINF:0 tvg-id="studiouniversal" tvg-name="Studio Universal" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHstudiouniversal.png" group-title="Películas",Studio Universal
+http://38.137.192.250:8000/play/a02e
+
+#EXTINF:0 tvg-id="tcm" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtcm.png" group-title="Películas",TCM
+http://45.167.1.136:8000/play/a02s
+
+#EXTINF:0 tvg-id="tcm" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtcm.png" group-title="Películas",TCM
+http://38.137.192.250:8000/play/a021
+
+#EXTINF:0 tvg-id="tntseries" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtntseries.png" group-title="Películas",TNT Series
+http://45.167.1.136:8000/play/a016
+
+#EXTINF:0 tvg-id="tntseries" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtntseries.png" group-title="Películas",TNT Series
+http://45.181.122.46:8090/play/a01k
+
+#EXTINF:0 tvg-id="universalpremiere" tvg-name="Universal Premiere" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHuniversalpremiere.png" group-title="Películas",Universal Premiere
+http://45.167.1.136:8000/play/a063
+
+#EXTINF:0 tvg-id="universalpremiere" tvg-name="Universal Premiere" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHuniversalpremiere.png" group-title="Películas",Universal Premiere
+http://38.137.192.250:8000/play/a0d5
+
+############################################################
+### CATEGORÍA: CULTURA
+############################################################
+
+#EXTINF:0 tvg-id="e" tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHe!.png" group-title="Cultura",E!
+http://45.167.1.136:8000/play/a03f
+
+#EXTINF:0 tvg-id="e" tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHe!.png" group-title="Cultura",E!
+http://45.181.122.46:8090/play/a033
+
+#EXTINF:0 tvg-id="elgourmet" tvg-name="El Gourmet" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHelgourmet.png" group-title="Cultura",El Gourmet
+http://45.167.1.136:8000/play/a02h
+
+#EXTINF:0 tvg-id="elgourmet" tvg-name="El Gourmet" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHelgourmet.png" group-title="Cultura",El Gourmet
+http://miotv.cc:8080/Lopez123/Lopez123/269970
+
+#EXTINF:0 tvg-id="foodnetwork" tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHfoodnetwork.png" group-title="Cultura",Food Network
+http://45.167.1.136:8000/play/a04d
+
+#EXTINF:0 tvg-id="foodnetwork" tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHfoodnetwork.png" group-title="Cultura",Food Network
+http://miotv.cc:8080/Lopez123/Lopez123/273870
+
+#EXTINF:0 tvg-id="h2history" tvg-name="H2 History" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHh2history.png" group-title="Cultura",H2 History
+http://45.167.1.136:8000/play/a02g
+
+#EXTINF:0 tvg-id="h2history" tvg-name="H2 History" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHh2history.png" group-title="Cultura",H2 History
+http://45.181.122.46:8090/play/a031
+
+#EXTINF:0 tvg-id="history" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHhistory.png" group-title="Cultura",History
+http://45.167.1.136:8000/play/a03j
+
+#EXTINF:0 tvg-id="history" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHhistory.png" group-title="Cultura",History
+http://45.181.122.46:8090/play/a00c
+
+#EXTINF:0 tvg-id="lovenature" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHlovenature.png" group-title="Cultura",Love Nature
+http://38.137.192.250:8000/play/a02o
+
+#EXTINF:0 tvg-id="lovenature" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHlovenature.png" group-title="Cultura",Love Nature
+https://jmp2.uk/rok-03a419fc4dff59b39b176d9f76b09e38.m3u8
+
+#EXTINF:0 tvg-id="sunchannel" tvg-name="Sun Channel" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHsunchannel.png" group-title="Cultura",Sun Channel
+http://45.167.1.136:8000/play/a02i
+
+#EXTINF:0 tvg-id="sunchannel" tvg-name="Sun Channel" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHsunchannel.png" group-title="Cultura",Sun Channel
+http://38.137.192.250:8000/play/a072
+
+#EXTINF:0 tvg-id="tlc" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHtlc.png" group-title="Cultura",TLC
+http://45.167.1.136:8000/play/a03k
+
+#EXTINF:0 tvg-id="tlc" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHtlc.png" group-title="Cultura",TLC
+http://38.137.192.250:8000/play/a0dx
+
+############################################################
+### CATEGORÍA: INFANTIL
+############################################################
+
+#EXTINF:0 tvg-id="cartoonito" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHcartoonito.png" group-title="Infantil",Cartoonito
+http://45.167.1.136:8000/play/a00y
+
+#EXTINF:0 tvg-id="cartoonito" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHcartoonito.png" group-title="Infantil",Cartoonito
+http://38.137.192.250:8000/play/a00j
+
+#EXTINF:0 tvg-id="maxanime" tvg-name="Max Anime" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHmaxanime.png" group-title="Infantil",Max Anime
+https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
+
+#EXTINF:0 tvg-id="maxanime" tvg-name="Max Anime" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHmaxanime.png" group-title="Infantil",Max Anime
+http://45.167.1.136:8000/play/a00x
+
+#EXTINF:0 tvg-id="tooncast" tvg-name="Tooncast" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHtooncast.png" group-title="Infantil",Tooncast
+http://45.167.1.136:8000/play/a03a
+
+#EXTINF:0 tvg-id="tooncast" tvg-name="Tooncast" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHtooncast.png" group-title="Infantil",Tooncast
+http://38.137.192.250:8000/play/a0ee
+
+############################################################
+### CATEGORÍA: NOVELAS
+############################################################
+
+#EXTINF:0 tvg-id="kanald" tvg-name="Kanal D" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHkanald.png" group-title="Novelas",Kanal D
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+#EXTINF:0 tvg-id="kanald" tvg-name="Kanal D" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHkanald.png" group-title="Novelas",Kanal D
+http://45.167.1.136:8000/play/a060
+
+#EXTINF:0 tvg-id="kanald" tvg-name="Kanal D" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHkanald.png" group-title="Novelas",Kanal D
+http://38.137.192.250:8000/play/a0cu
+
+#EXTINF:0 tvg-id="pasiones" tvg-name="Pasiones" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHpasiones.png" group-title="Novelas",Pasiones
+http://45.167.1.136:8000/play/a06j
+
+#EXTINF:0 tvg-id="pasiones" tvg-name="Pasiones" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHpasiones.png" group-title="Novelas",Pasiones
+http://45.181.122.46:8090/play/a01p
+
+#EXTINF:0 tvg-id="tlnovelas" tvg-name="TLNovelas" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtllnovelas.png" group-title="Novelas",TLNovelas
+http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="tlnovelas" tvg-name="TLNovelas" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtllnovelas.png" group-title="Novelas",TLNovelas
+http://38.137.192.250:8000/play/a0bl
+
+#EXTINF:0 tvg-id="tntnovelas" tvg-name="TNT Novelas" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtntnovelas.png" group-title="Novelas",TNT Novelas
+http://45.167.1.136:8000/play/a018
+
+#EXTINF:0 tvg-id="tntnovelas" tvg-name="TNT Novelas" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtntnovelas.png" group-title="Novelas",TNT Novelas
+http://45.181.122.46:8090/play/a02k
+
+############################################################
+### CATEGORÍA: NOTICIAS
+############################################################
+
+#EXTINF:0 tvg-id="a24" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHa24.png" group-title="Noticias",A24
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+https://dai.google.com/linear/hls/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8
+
+#EXTINF:0 tvg-id="a24" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHa24.png" group-title="Noticias",A24
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+https://g3.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m3u8?sense=true
+
+#EXTINF:0 tvg-id="a24" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHa24.png" group-title="Noticias",A24
+http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/a24.playlist.m3u8
+
+#EXTINF:0 tvg-id="cgtn" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHcgtnespañol.png" group-title="Noticias",CGTN
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
+#EXTINF:0 tvg-id="cgtn" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHcgtnespañol.png" group-title="Noticias",CGTN
+http://38.44.109.41:8003/play/a021/index.m3u8
+
+#EXTINF:0 tvg-id="cnnenespaol" tvg-name="CNN en Español" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHcnnenespa%C3%B1ol.png" group-title="Noticias",CNN en Español
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:0 tvg-id="cnnenespaol" tvg-name="CNN en Español" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHcnnenespa%C3%B1ol.png" group-title="Noticias",CNN en Español
+http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/CNNesp.playlist.m3u8
+
+#EXTINF:0 tvg-id="canal26" tvg-name="Canal 26" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcanal26.png" group-title="Noticias",Canal 26
+http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+#EXTINF:0 tvg-id="canal26" tvg-name="Canal 26" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcanal26.png" group-title="Noticias",Canal 26
+http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/c26.playlist.m3u8
+
+#EXTINF:0 tvg-id="cronicatv" tvg-name="Cronica TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcronicatv.png" group-title="Noticias",Cronica TV
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_360p.m3u8
+
+#EXTINF:0 tvg-id="cronicatv" tvg-name="Cronica TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcronicatv.png" group-title="Noticias",Cronica TV
+http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/CronicaTv.playlist.m3u8
+
+#EXTINF:0 tvg-id="dwenespaol" tvg-name="DW En Español" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHdw.png" group-title="Noticias",DW En Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:0 tvg-id="dwenespaol" tvg-name="DW En Español" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHdw.png" group-title="Noticias",DW En Español
+http://38.44.109.41:8003/play/a01b/index.m3u8
+
+#EXTINF:0 tvg-id="hispantv" tvg-name="HispanTV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHhispantv.png" group-title="Noticias",HispanTV
+https://live.presstv.ir/hls/hispantv.m3u8
+
+#EXTINF:0 tvg-id="hispantv" tvg-name="HispanTV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHhispantv.png" group-title="Noticias",HispanTV
+http://38.44.109.41:8003/play/a024/index.m3u8
+
+#EXTINF:0 tvg-id="rtenespaol" tvg-name="RT en Español" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHrtenespañol.png" group-title="Noticias",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:0 tvg-id="rtenespaol" tvg-name="RT en Español" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHrtenespañol.png" group-title="Noticias",RT en Español
+http://38.44.109.41:8003/play/a00a/index.m3u8
+
+#EXTINF:0 tvg-id="tn" tvg-name="TN" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHtn.png" group-title="Noticias",TN
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
+
+#EXTINF:0 tvg-id="tn" tvg-name="TN" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHtn.png" group-title="Noticias",TN
+#EXTVLCOPT:http-referrer=https://www.m3u8player.online/
+http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/tn.playlist.m3u8
+
+############################################################
+### CATEGORÍA: INTERNACIONALES
+############################################################
+
+#EXTINF:0 tvg-id="aztecaclic" tvg-name="Azteca Clic" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHclicmexico.png" group-title="Internacionales",Azteca Clic
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
+
+#EXTINF:0 tvg-id="aztecaclic" tvg-name="Azteca Clic" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHclicmexico.png" group-title="Internacionales",Azteca Clic
+http://45.167.1.136:8000/play/a05q
+
+#EXTINF:0 tvg-id="bravotv" tvg-name="Bravo TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHbravotv.png" group-title="Internacionales",Bravo TV
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="bravotv" tvg-name="Bravo TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHbravotv.png" group-title="Internacionales",Bravo TV
+https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
+
+#EXTINF:0 tvg-id="canal6multimedioslaguna" tvg-name="Canal 6 Multimedios Laguna" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal6multimediosmexico.png" group-title="Internacionales",Canal 6 Multimedios Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:0 tvg-id="canal6multimedioslaguna" tvg-name="Canal 6 Multimedios Laguna" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal6multimediosmexico.png" group-title="Internacionales",Canal 6 Multimedios Laguna
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7368
+
+#EXTINF:0 tvg-id="ecuadortv" tvg-name="Ecuador TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHecuadortv.png" group-title="Internacionales",Ecuador TV
+https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ecuadortv" tvg-name="Ecuador TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHecuadortv.png" group-title="Internacionales",Ecuador TV
+http://38.44.109.41:8003/play/a02b/index.m3u8
+
+#EXTINF:0 tvg-id="ecuavisa" tvg-name="Ecuavisa" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHecuavisaecuador.png" group-title="Internacionales",Ecuavisa
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b2163355050067fdfde47773e
+
+#EXTINF:0 tvg-id="ecuavisa" tvg-name="Ecuavisa" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHecuavisaecuador.png" group-title="Internacionales",Ecuavisa
+http://38.44.109.41:8003/play/a019/index.m3u8
+
+#EXTINF:0 tvg-id="estrellatv" tvg-name="Estrella TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHestrellatvmexico.png" group-title="Internacionales",Estrella TV
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="estrellatv" tvg-name="Estrella TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHestrellatvmexico.png" group-title="Internacionales",Estrella TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="estrellatv" tvg-name="Estrella TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHestrellatvmexico.png" group-title="Internacionales",Estrella TV
+https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:0 tvg-id="extratv" tvg-name="Extra TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHextratvcostarica.png" group-title="Internacionales",Extra TV
+https://d2axu5ozwr5gk0.cloudfront.net/480p.m3u8
+
+#EXTINF:0 tvg-id="extratv" tvg-name="Extra TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHextratvcostarica.png" group-title="Internacionales",Extra TV
+http://45.167.1.136:8000/play/a009
+
+#EXTINF:0 tvg-id="nettv" tvg-name="Net TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHnettv.png" group-title="Internacionales",Net TV
+https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="nettv" tvg-name="Net TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHnettv.png" group-title="Internacionales",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="oromartv" tvg-name="Oromar TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHoromartv.png" group-title="Internacionales",Oromar TV
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+
+#EXTINF:0 tvg-id="oromartv" tvg-name="Oromar TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHoromartv.png" group-title="Internacionales",Oromar TV
+http://38.44.109.41:8003/play/a01a/index.m3u8
+
+#EXTINF:0 tvg-id="sealcolombia" tvg-name="Señal Colombia" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHseñalcolombia.png" group-title="Internacionales",Señal Colombia
+http://38.44.109.41:8003/play/a018/index.m3u8
+
+#EXTINF:0 tvg-id="sealcolombia" tvg-name="Señal Colombia" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHseñalcolombia.png" group-title="Internacionales",Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="telemax" tvg-name="Telemax" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelemax.png" group-title="Internacionales",Telemax
+http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+#EXTINF:0 tvg-id="telemax" tvg-name="Telemax" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelemax.png" group-title="Internacionales",Telemax
+http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/telemax.playlist.m3u8
+
+############################################################
+### CATEGORÍA: VARIEDADES
+############################################################
+
+#EXTINF:0 tvg-id="cm" tvg-name="CM" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CHcm.png" group-title="Variedades",CM
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
+
+#EXTINF:0 tvg-id="cm" tvg-name="CM" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CHcm.png" group-title="Variedades",CM
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
+
+#EXTINF:0 tvg-id="canal4rtvd" tvg-name="Canal 4 RTVD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal4rtvdrepdominicana.png" group-title="Variedades",Canal 4 RTVD
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+
+#EXTINF:0 tvg-id="canal4rtvd" tvg-name="Canal 4 RTVD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal4rtvdrepdominicana.png" group-title="Variedades",Canal 4 RTVD
+http://45.167.1.136:8000/play/a03v
 
