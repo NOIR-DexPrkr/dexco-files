@@ -1,13 +1,58 @@
 #EXTM3U
 
-#EXTINF:0 tvg-country="VE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Televen_%282024%29.svg/1920px-Televen_%282024%29.svg.png" group-title="Favoritos",Televen (720p)
+#EXTINF:0 tvg-country="VE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Televen_%282024%29.svg/1920px-Televen_%282024%29.svg.png" group-title="Favoritos",Televen
 http://181.78.8.199:8000/play/a09j/index.m3u8
 
-#EXTINF:0 tvg-country="VE" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="Favoritos",Telesur HD (720p)
+#EXTINF:0 tvg-country="VE" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="Favoritos",Telesur HD
 http://45.190.28.50/TELESUR_HD/index.m3u8
 
-#EXTINF:0 tvg-country="VE" tvg-logo="https://i.imgur.com/gm1m8hW.png" group-title="Favoritos",Venevisión Nacional (720p)
+#EXTINF:0 tvg-country="VE" tvg-logo="https://i.imgur.com/gm1m8hW.png" group-title="Favoritos",Venevisión Nacional
 https://venevision-blocked-cdn.encoders.immergo.tv/master.m3u8
 
-#EXTINF:0 tvg-country="VE" tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="Otros",Venevisión Internacional (720p)
+#EXTINF:0 tvg-country="VE" tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="Venezuela",Venevisión Internacional
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" group-title="Pluto TV", El Encantador de Perros
+https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://images.pluto.tv/channels/69fcdc73488e575cff213adc/colorLogoPNG_1778601459828.png" group-title="Pluto TV", Hermanos a la Obra
+https://jmp2.uk/plu-69fcdc73488e575cff213adc.m3u8
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Pluto TV", Karaoke
+https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/colorLogoPNG.png" group-title="Pluto TV", MTV Clasicos
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://images.pluto.tv/channels/69fcaa71ea95ffff0987f555/colorLogoPNG_1779730748951.png" group-title="Pluto TV", Master Chef Colombia
+https://jmp2.uk/plu-69fcaa71ea95ffff0987f555.m3u8
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG_1787850989206.png" group-title="Pluto TV", Master Chef Mexico
+https://jmp2.uk/plu-5e3ddbd27091820009f86dd9.m3u8
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHanimalplanet.png" group-title="Entretenimiento", Animal Planet
+http://45.167.1.136:8000/play/a03i
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscovery.png" group-title="Entretenimiento", Discovery
+http://45.181.122.46:8090/play/a014
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHh&hdiscovery.png" group-title="Entretenimiento", H&H Discovery
+http://45.167.1.136:8000/play/a05y
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHnatgeo.png" group-title="Entretenimiento", NatGeo
+http://45.167.1.136:8000/play/a06e
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHstarchannel.png" group-title="Entretenimiento", Star Channel
+http://45.167.1.136:8000/play/a03p
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtnt.png" group-title="Entretenimiento", TNT
+http://45.167.1.136:8000/play/a01g
+
+
+
+
+
+
+
+
+
