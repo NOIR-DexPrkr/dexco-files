@@ -963,5 +963,5 @@ http://45.167.1.136:8000/play/a03v
 ### CREDITOS: Cinecity, IPTV-ORG
 ############################################################
 
-#EXTINF:0 tvg-id="canal4rtvd" tvg-name="Canal 4 RTVD" tvg-logo="https://imgcnr.is-best.net/Noir-Room/profile_may_2025.png" group-title="DexNR", Dex's Noir Room
+#EXTINF:0 tvg-id="dexnr" tvg-name="Dex Noir Room" tvg-logo="https://imgcnr.is-best.net/Noir-Room/profile_may_2025.png" group-title="DexNR", Dex's Noir Room
 https://dexnr.pages.dev/
