@@ -959,3 +959,9 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:0 tvg-id="canal4rtvd" tvg-name="Canal 4 RTVD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal4rtvdrepdominicana.png" group-title="Variedades",Canal 4 RTVD
 http://45.167.1.136:8000/play/a03v
 
+############################################################
+### CREDITOS: Cinecity, IPTV-ORG
+############################################################
+
+#EXTINF:0 tvg-id="canal4rtvd" tvg-name="Canal 4 RTVD" tvg-logo="https://imgcnr.is-best.net/Noir-Room/profile_may_2025.png" group-title="DexNR", Dex's Noir Room
+https://dexnr.pages.dev/
